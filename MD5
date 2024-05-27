@@ -1,0 +1,15 @@
+5e0aa996d3860fd58c3641b407c3edca *DESCRIPTION
+b23305ae67ce8a1d885a5ecedd63edb1 *NAMESPACE
+4f09c991aa68d8e670973d03ce994b91 *R/acuttfn.R
+a7399d756bc44f8454d672702de88a71 *R/acuttrfn.R
+20f1f39e06c6a3bf3cea280d94c66afa *R/rtfn.R
+f1295aa892252b0413a396c5b0de22e7 *R/rtrfn.R
+134d699a27ecde12813f5804acee20b4 *man/acuttfn.Rd
+c6c7c95e1a6a33e2a976308aae3ad469 *man/acuttrfn.Rd
+76c45ef00e390932f584786d57751430 *man/rtfn.Rd
+cddca39af31e72eb196805bcdfb5673e *man/rtrfn.Rd
+8f456f70d448ed132313b4d7ea41c652 *tests/testthat.R
+9bd61e87bd566a8f8f7aaf736f475f04 *tests/testthat/test-acuttfn.R
+7778150ba14a66b59fe6a6877824b5c1 *tests/testthat/test-acuttrfn.R
+3b1e993b33e7760430fba5bd40e4bb45 *tests/testthat/test-rtfn.R
+44b70b08ccac04f65aa3996fb0c9737a *tests/testthat/test-rtrfn.R
