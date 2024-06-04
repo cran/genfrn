@@ -10,7 +10,9 @@
 #' @return  A data frame with two variables, that is, x and mf
 #' @export
 #'
-#' @import stats
+#' @importFrom stats runif punif
+#' @importFrom graphics plot
+#'
 #' @references Souliotis, G., Alanazi, Y., & Papadopoulos, B. (2022). Construction of fuzzy numbers via cumulative distribution function. Mathematics, 10(18), 3350. https://doi.org/10.3390/math10183350
 #'
 #' @examples
